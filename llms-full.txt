@@ -1,0 +1,44 @@
+# Geotechnik — Mannheim
+
+> Geotechnical engineering services in Mannheim, Deutschland.
+
+## Services
+- [Anker](https://mannheim.geotechnik.vip/anker/)
+- [Aushub](https://mannheim.geotechnik.vip/aushub/)
+- [Bodenverbesserung](https://mannheim.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://mannheim.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://mannheim.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://mannheim.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://mannheim.geotechnik.vip/erdbebenisolierung/)
+- [Fundamente](https://mannheim.geotechnik.vip/fundamente/)
+- [Geophysik](https://mannheim.geotechnik.vip/geophysik/)
+- [Grundungen](https://mannheim.geotechnik.vip/grundungen/)
+- [Hange](https://mannheim.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://mannheim.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://mannheim.geotechnik.vip/injektionen/)
+- [Labor](https://mannheim.geotechnik.vip/labor/)
+- [Labor In Situ](https://mannheim.geotechnik.vip/labor-in-situ/)
+- [Masw](https://mannheim.geotechnik.vip/masw/)
+- [Pfahle](https://mannheim.geotechnik.vip/pfahle/)
+- [Plattendruckversuch](https://mannheim.geotechnik.vip/plattendruckversuch/)
+- [Sandkegel Dichte](https://mannheim.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://mannheim.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://mannheim.geotechnik.vip/schurfgruben/)
+- [Seismik](https://mannheim.geotechnik.vip/seismik/)
+- [Seismische Refraktion](https://mannheim.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://mannheim.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://mannheim.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://mannheim.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://mannheim.geotechnik.vip/stutzmauern/)
+- [Triaxialversuch](https://mannheim.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://mannheim.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://mannheim.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://mannheim.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://mannheim.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://mannheim.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Mannheim, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
